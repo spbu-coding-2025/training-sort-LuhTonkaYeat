@@ -1,0 +1,5 @@
+/home/yeat/training-sort-LuhTonkaYeat/build/CMakeFiles/edit_cache.dir
+/home/yeat/training-sort-LuhTonkaYeat/build/CMakeFiles/rebuild_cache.dir
+/home/yeat/training-sort-LuhTonkaYeat/build/src/CMakeFiles/sorter.dir
+/home/yeat/training-sort-LuhTonkaYeat/build/src/CMakeFiles/edit_cache.dir
+/home/yeat/training-sort-LuhTonkaYeat/build/src/CMakeFiles/rebuild_cache.dir

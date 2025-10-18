@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/sorter.dir/main.c.o -o sorter 
